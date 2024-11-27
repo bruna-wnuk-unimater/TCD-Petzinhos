@@ -5,6 +5,7 @@ O Petzinhos foi desenvolvido como um espaço digital para apresentar os serviço
 
 ## Estrutura do Site
 **Página Inicial (index.html)**
+
 Contém as seções principais, como:
 - Sobre Nós com um resumo da missão e visão da Petzinhos.
 - Serviços com destaques de serviços como Banho & Tosa, Consultas Veterinárias e Adestramento.
@@ -12,6 +13,7 @@ Contém as seções principais, como:
 - Contato e Informações para entrar em contato com a equipe.
 
 **Página de Serviços (servicos.html)**
+
 Detalha todos os serviços disponíveis, incluindo:
 - Hotel para cães.
 - Consultas veterinárias.
